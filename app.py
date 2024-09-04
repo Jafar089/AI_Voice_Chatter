@@ -6,7 +6,7 @@ import threading
 import json
 
 # Set OpenAI API key
-openai.api_key = "sk-eWop_jPuFNsFqttpddB_PZdMM914UkTJ1stTRxuOUNT3BlbkFJd05HQEPYS1RGAHDSTCU15eYzASQdgd3DNybHLIQzQA"
+openai.api_key = "your_openai_api"
 
 # Initialize the recognizer
 recognizer = sr.Recognizer()
